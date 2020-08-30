@@ -1,0 +1,13 @@
+{
+  "type":"blacklist",
+  "list":[
+    {
+      "all": true,
+      "text": "everything"
+    },
+    {
+      "text": "this"
+    }
+    
+  ]
+}

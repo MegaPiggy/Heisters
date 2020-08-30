@@ -1,0 +1,56 @@
+{
+  "type": "blacklist",
+  "list": [
+    {
+      "all": true,
+      "text": "gainblox.gg"
+    },
+    {
+      "text": "i just made tons of robux using gainblox.gg on your browser to earn robux!"
+    },
+    {
+      "all": true,
+      "text": "rbx.tools"
+    },
+    {
+      "all": true,
+      "text": "rbx.gg"
+    },
+    {
+      "all": true,
+      "text": "earnrobux.gg"
+    },
+    {
+      "all": true,
+      "text": "rbxboost.com"
+    },
+    {
+      "all": true,
+      "text": "earnblox.me"
+    },
+    {
+      "all": true,
+      "text": "rbx.center"
+    },
+    {
+      "all": true,
+      "text": "gamepass.me"
+    },
+    {
+      "all": true,
+      "text": "rewardtool.se"
+    },
+    {
+      "all": true,
+      "text": "pf script"
+    },
+    {
+      "all": true,
+      "text": "Dmscord"
+    },
+    {
+      "all": true,
+      "text": "GaVUNNw"
+    }
+  ]
+}
